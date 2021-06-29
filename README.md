@@ -21,7 +21,8 @@ Do the next steps to compile the application.
 	junit-4.11.jar
 	ojdbc6-11.2.0.3.jar
 	hamcrest-all-1.3.jar
-3. Now, you can use the application.
+3. Create the next folder "C:/logTest"
+4. Now, you can use the application.
 
 ## Support
 If you need to support, you must send an email to gdelacruz@soaint.com 
